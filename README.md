@@ -7,10 +7,10 @@ What Is This?
 This is a simple Python task for printings basic information about your OS to console.
 
 
-Installing?
+Installing
 -------------
 
-You need to install python and python-psutil libs
+You need to install `python` and `python-psutil` libs
 
 How to use?
 -------------
