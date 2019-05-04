@@ -20,12 +20,12 @@ This script accepts one of two parameters:
 - mem
 Example of running cpu command:
 
-system.cpu.idle 78.8
-system.cpu.user 17.3
-system.cpu.guest 0.0
-system.cpu.iowait 1.3
-system.cpu.stolen 0.0
-system.cpu.system 2.5
+system.cpu.idle 78.8\n
+system.cpu.user 17.3\n
+system.cpu.guest 0.0\n
+system.cpu.iowait 1.3\n
+system.cpu.stolen 0.0\n
+system.cpu.system 2.5\n
 
 Example of runnin mem command:
 virtual total 16712351744
